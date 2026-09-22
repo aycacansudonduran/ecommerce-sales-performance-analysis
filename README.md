@@ -71,3 +71,4 @@ python src/analysis.py        # Grafikleri outputs/ klasörüne kaydeder
 ## Yazar
 
 Bu proje, veri bilimi portföyü amacıyla hazırlanmıştır.
+
