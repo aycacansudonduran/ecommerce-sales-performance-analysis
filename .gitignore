@@ -1,0 +1,6 @@
+# Ham veri Kaggle'dan indirilir, repoya eklenmez
+data/raw/*.csv
+data/processed/*.db
+
+__pycache__/
+.ipynb_checkpoints/
